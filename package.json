@@ -1,0 +1,13 @@
+{
+  "name": "@ioffice/prettier-config",
+  "version": "1.0.0",
+  "description": "iOFFICE Prettier config",
+  "main": "index.json",
+  "repository": "git@github.com:iOffice/prettier-config.git",
+  "author": "iOFFICE",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org"
+  }
+}
